@@ -1,0 +1,63 @@
+body{background-color:black;}
+
+
+div{
+font-family:Comic Sans MS;
+color:white;
+float:none;}
+
+ #myImage {
+        width: 80px;
+        height: 80px;
+      padding:5px;
+     margin:5px;
+     border:50px;
+     float: left;
+      } 
+#mic{
+    float:left;
+    color:white;}
+#div1{ width: 50px;
+        height:45px;
+      padding:0px;
+     margin:0px;
+     border:0px;
+    background-color:#021e7a;
+    color:#ffffff;
+}
+#div2{width: 120px;
+        height:45px;
+      padding:0px;
+     margin:0px;
+     border:0px;
+    background-color:#2cdb6f;
+    color:#ffffff;
+   }
+#div3{width:150px;
+        height:30px;
+      padding:0px;
+     margin:0px;
+     border:0px;
+    background-color:#021e7a;
+    color:#ffffff;}
+#div4{width: 125px;
+        height:45px;
+      padding:0px;
+     margin:0px;
+     border:0px;
+    background-color:#2cdb6f;
+    color:#ffffff;}
+#div5{width: 130px;
+        height:45px;
+      padding:0px;
+     margin:0px;
+     border:0px;
+    background-color:#021e7a;
+    color:#ffffff;}
+#div6{width: 160px;
+        height:45px;
+      padding:0px;
+     margin:0px;
+     border:0px;
+    background-color:#2cdb6f;
+    color:#ffffff;}
